@@ -95,15 +95,7 @@
                     {   
                         echo "Error In Insertion".mysqli_error($connection);
 
-                    }
-
-
-
-
-
-
-
-                   
+                    }        
                }
                else
                {
